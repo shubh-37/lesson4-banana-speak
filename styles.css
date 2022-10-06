@@ -11,16 +11,16 @@ body{
 }
 #input-txt{
     display: block;
-    width: 600px;
-    height: 200px;
+    width: 60%;
+    height: 30vh;
     margin: auto;
     font-family: 'Lobster', cursive;
     font-size: 1.25rem;
 }
 #btn-translate{
     display: block;
-    width: 175px;
-    height: 60px;
+    width: 13%;
+    height: 10vh;
     margin: auto;
     margin-top: 1rem;
     background-color: var(--primary-color);
@@ -36,8 +36,8 @@ h2{
 #output-txt{
     display: block;
     margin: auto;
-    width: 600px;
-    height: 200px;
+    width: 60%;
+    height: 30vh;
     border: solid 2px;
     margin-bottom: 1rem;
     padding: 0.5rem;
