@@ -29,6 +29,7 @@ body{
     border-radius: 0.5rem ;
     overflow: hidden;
     text-overflow: ellipsis;
+    cursor: pointer;
 }
 
 h2{
