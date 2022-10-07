@@ -53,9 +53,8 @@ h2{
     margin-bottom: 1rem ;
 }
 .footer{
+    position: relative;
     padding: 1rem 1rem;
-    width: auto;
-    height: 100px;
     text-align: center;
     background-color: var(--primary-color);
     border-radius: 1rem 1rem 0rem 0rem;
