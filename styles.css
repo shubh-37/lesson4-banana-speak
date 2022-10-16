@@ -19,17 +19,13 @@ body{
 }
 #btn-translate{
     display: block;
-    width: 13%;
-    height: 10vh;
     margin: auto;
     margin-top: 1rem;
     background-color: var(--primary-color);
     font-family: 'Lobster', cursive;
     font-size: 1rem;
     border-radius: 0.5rem ;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    cursor: pointer;
+    padding : 0.5rem;
 }
 
 h2{
